@@ -1,0 +1,17 @@
+{
+    "ic_id": 479,
+    "ica_id": 4524,
+    "question": "Implement a timestamp-based cache invalidation mechanism in a Flutter application. Assume you have a Flutter app that retrieves a list of messages from Cloud Firestore. Write a function that caches the messages and refreshes the cache only if 30 minutes have passed since the last fetch. Make sure to handle the cache state properly using Flutter's state management.",
+    "rules": [
+        "Must use Flutter for UI and Cloud Firestore for data storage",
+        "Keep track of cache timing using DateTime",
+        "Perform efficient cache invalidation only when required"
+    ],
+    "examples": "Input: Cached data fetched at 10:00 AM, New fetch attempt at 10:25 AM -> Output: Use cached data\nInput: Cached data fetched at 10:00 AM, New fetch attempt at 10:35 AM -> Output: Fetch new data from Firestore and update cache",
+    "programming_language": "Dart",
+    "response_time": 104,
+    "score": 3,
+    "score_range": 3,
+    "weight": 75.0,
+    "total_weight": 75.0
+}

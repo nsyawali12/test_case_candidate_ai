@@ -1,0 +1,17 @@
+{
+    "ic_id": 312,
+    "ica_id": 2940,
+    "question": "Considering that you are working on a Next.js project and you are tasked with improving page performance, implement a feature using React that efficiently updates only the components that need rerendering when data changes. You should consider any possible scenarios of data flow throughout the components, and apply appropriate optimizations to prevent unnecessary renders. Think about component design, data structures, and state management in your solution.",
+    "rules": [
+        "The solution must not affect existing functionalities",
+        "Optimizations should be sensible and justified",
+        "The use of React hooks is encouraged"
+    ],
+    "examples": "",
+    "programming_language": "JavaScript",
+    "response_time": 1261,
+    "score": 2,
+    "score_range": 3,
+    "weight": 83.33,
+    "total_weight": 125.0
+}

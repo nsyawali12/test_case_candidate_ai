@@ -1,0 +1,16 @@
+{
+    "ic_id": 311,
+    "ica_id": 2920,
+    "question": "Write a JavaScript function that will strip HTML tags from a given string, retain the text content and return it. The solution should not rely on browser-based APIs, as the focus is on server-side JavaScript, and it should be efficient to handle larger strings.",
+    "rules": [
+        "Do not use third-party libraries",
+        "Function must be pure and stateless"
+    ],
+    "examples": "Input: '<p>Hello <em>World</em>!</p>'\\nExpected Output: 'Hello World!'",
+    "programming_language": "JavaScript",
+    "response_time": 297,
+    "score": 3,
+    "score_range": 3,
+    "weight": 25.0,
+    "total_weight": 25.0
+}

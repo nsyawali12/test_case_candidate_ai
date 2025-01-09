@@ -1,0 +1,17 @@
+{
+    "ic_id": 419,
+    "ica_id": 4272,
+    "question": "Develop a feature for a WYSIWYG editor that allows users to select text and apply a Markdown transformation, such as bold or italic, with live preview. The solution should handle edge cases where the selected text includes part of an existing Markdown tag. Provide a function that updates the editor's state with the transformation applied to the selected text.",
+    "rules": [
+        "Do not use any pre-built Markdown editors.",
+        "Handle edge cases with partial Markdown tags in selection.",
+        "Must use undoable state operations for change tracking."
+    ],
+    "examples": "Input: editorContent = 'This is **an** example', selectedText = 'is **an** ex', style = 'bold'\\nOutput: editorContent = 'This **is an ex**ample'",
+    "programming_language": "TypeScript",
+    "response_time": 234,
+    "score": 2,
+    "score_range": 3,
+    "weight": 150.0,
+    "total_weight": 225.0
+}

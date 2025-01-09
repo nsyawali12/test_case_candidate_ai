@@ -1,0 +1,17 @@
+{
+    "ic_id": 447,
+    "ica_id": 4307,
+    "question": "Create a countdown timer component in React that takes a predefined amount of time and displays the remaining time in minutes and seconds. The timer should start automatically and provide visual feedback each second. When the timer reaches zero, it should display a message that the time is up and stop counting down.",
+    "rules": [
+        "The timer should update on the screen every second.",
+        "The component should handle edge cases, such as negative or zero input time.",
+        "Do not use external timer libraries."
+    ],
+    "examples": "Input: predefinedTime=5 (in minutes) -> Output: Timer displays each second and stops at 00:00 with a message 'Time is up'.",
+    "programming_language": "JavaScript",
+    "response_time": 90,
+    "score": 0,
+    "score_range": 3,
+    "weight": 0.0,
+    "total_weight": 150.0
+}

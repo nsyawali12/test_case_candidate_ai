@@ -1,0 +1,16 @@
+{
+    "ic_id": 434,
+    "ica_id": 4292,
+    "question": "Implement an endpoint in NestJS, which receives an employee's hourly wage and number of hours worked in a week, and calculates the weekly wage with the consideration of overtime. Regular hours are considered to be the first 40 hours worked in a week, and overtime hours are any hours worked over 40 for which the employee should receive 1.5 times their hourly wage for each hour of overtime. The endpoint should receive JSON data with two fields: 'hourlyWage' and 'hoursWorked', and should return JSON data with the field 'weeklyWage'. Apply validation for the input data to ensure that hourly wage is a positive number and hours worked is a positive integer.",
+    "rules": [
+        "Must handle input validation",
+        "Weekly wage formula: (40 * hourly wage) + ((hours worked - 40) * (1.5 * hourly wage)) if over 40 hours"
+    ],
+    "examples": "Input: { \"hourlyWage\": 15, \"hoursWorked\": 45 } Output: { \"weeklyWage\": 712.5 }",
+    "programming_language": "TypeScript",
+    "response_time": 932,
+    "score": 3,
+    "score_range": 3,
+    "weight": 150.0,
+    "total_weight": 150.0
+}

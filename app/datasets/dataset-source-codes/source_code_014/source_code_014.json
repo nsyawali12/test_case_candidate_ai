@@ -1,0 +1,13 @@
+{
+    "ic_id": 269,
+    "ica_id": 2575,
+    "question": "Write a query to find the average age of employees in the 'Users' table.",
+    "rules": [],
+    "examples": "Input: 'Users' table\nExpected output: Average age of employees",
+    "programming_language": "SQL",
+    "response_time": 25,
+    "score": 3,
+    "score_range": 3,
+    "weight": 25.0,
+    "total_weight": 25.0
+}

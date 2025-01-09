@@ -1,0 +1,16 @@
+{
+    "ic_id": 467,
+    "ica_id": 4456,
+    "question": "Create a Node.js function that takes as input an array of URLs. In a single pass, make concurrent HTTP requests to each one of the URLs, storing the HTTP status code for each one in an object. The function should return a Promise that resolves to an object mapping each URL to its corresponding status code.",
+    "rules": [
+        "Use native Node.js modules only.",
+        "Use async techniques like Promises or async/await."
+    ],
+    "examples": "Input: ['https://example.com', 'https://google.com'] Output: {'https://example.com': 200, 'https://google.com': 200}",
+    "programming_language": "JavaScript",
+    "response_time": 15,
+    "score": 0,
+    "score_range": 3,
+    "weight": 0.0,
+    "total_weight": 225.0
+}

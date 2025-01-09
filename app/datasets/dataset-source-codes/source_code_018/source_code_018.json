@@ -1,0 +1,16 @@
+{
+    "ic_id": 280,
+    "ica_id": 2717,
+    "question": "Create a function in Node.js that will accept a string representing a sequence of opening and closing parentheses, such as '()()()' or '(()', and determine if the sequence is balanced. For a sequence to be balanced, every opening parenthesis must be followed by a corresponding closing parenthesis in the correct order. Your function should return true if the sequence is balanced and false otherwise. In React, create a simple component that allows the user to input a sequence of parentheses and displays the validation result using the Node.js function.",
+    "rules": [
+        "The Node.js function must not use regular expressions for validation.",
+        "The React component should show the result interactively as the user types."
+    ],
+    "examples": "Input: '()()()', Output: true\nInput: '(()', Output: false",
+    "programming_language": "JavaScript",
+    "response_time": 6,
+    "score": 0,
+    "score_range": 3,
+    "weight": 0.0,
+    "total_weight": 25.0
+}

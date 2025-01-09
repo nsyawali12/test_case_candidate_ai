@@ -1,0 +1,16 @@
+{
+    "ic_id": 363,
+    "ica_id": 3514,
+    "question": "Implement a function using C++ with the Active Template Library (ATL) that takes two strings, `text` and `pattern`, and returns an array of starting indices for all occurrences of `pattern` in `text` using the Knuth-Morris-Pratt (KMP) algorithm.",
+    "rules": [
+        "Use ATL for string processing.",
+        "Implement the KMP algorithm from scratch."
+    ],
+    "examples": "Input: text='ABABDABACDABABCABAB', pattern='ABABCABAB' -> Output: [10]\nInput: text='AAAAA', pattern='AAA' -> Output: [0, 1, 2]",
+    "programming_language": "C++",
+    "response_time": 17,
+    "score": 0,
+    "score_range": 3,
+    "weight": 0.0,
+    "total_weight": 100.0
+}

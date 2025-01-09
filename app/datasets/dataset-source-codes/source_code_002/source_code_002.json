@@ -1,0 +1,16 @@
+{
+    "ic_id": 91,
+    "ica_id": 737,
+    "question": "Given an array of integers, find the two numbers that appear odd number of times.",
+    "rules": [
+        "You cannot use any built-in functions for counting the occurrences",
+        "The array will always have at least two numbers that appear odd number of times"
+    ],
+    "examples": "[1, 2, 3, 2, 1, 3, 5] -> [1, 5]",
+    "programming_language": "JavaScript",
+    "response_time": 708,
+    "score": 2,
+    "score_range": 3,
+    "weight": 100.0,
+    "total_weight": 150.0
+}

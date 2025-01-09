@@ -1,0 +1,13 @@
+{
+    "ic_id": 148,
+    "ica_id": 1521,
+    "question": "Given an array of numbers, find the maximum number in the array.",
+    "rules": [],
+    "examples": "- input: [1, 5, 9, 3, 7]\n  output: 9\n\n- input: [-2, 0, -5, -1]\n  output: 0",
+    "programming_language": "React",
+    "response_time": 310,
+    "score": 1,
+    "score_range": 3,
+    "weight": 50.0,
+    "total_weight": 150.0
+}

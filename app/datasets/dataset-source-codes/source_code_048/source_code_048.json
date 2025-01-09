@@ -1,0 +1,15 @@
+{
+    "ic_id": 451,
+    "ica_id": 4408,
+    "question": "Write a function in JavaScript that implements a simple URL parser. The function should accept a string URL and return an object with properties: protocol, host, port (if any), path (including the leading slash), query parameters (as an object), and the anchor (hash). Make assumptions for any standard URL format and ignore authentication, userinfo, or unusual custom formats.",
+    "rules": [
+        "The function should not use URL-related library functions for parsing."
+    ],
+    "examples": "Input: 'https://www.example.com:8080/path/to/page?name=ferret&color=purple#section2'\\nOutput: {\\n  protocol: 'https',\\n  host: 'www.example.com',\\n  port: '8080',\\n  path: '/path/to/page',\\n  queryParams: { name: 'ferret', color: 'purple' },\\n  anchor: 'section2'\\n}",
+    "programming_language": "JavaScript",
+    "response_time": 900,
+    "score": 3,
+    "score_range": 3,
+    "weight": 75.0,
+    "total_weight": 75.0
+}

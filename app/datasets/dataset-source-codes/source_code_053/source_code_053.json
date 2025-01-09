@@ -1,0 +1,16 @@
+{
+    "ic_id": 473,
+    "ica_id": 4489,
+    "question": "Build a React component that allows users to create a dynamic table. Users should be able to add any number of rows and columns to the table and fill each cell with text. The component must also support removing specific rows or columns as needed. Ensure that the state management is handled properly and any changes to the table are reflected immediately on the user interface.",
+    "rules": [
+        "Do not directly manipulate the DOM, use state and props for updates",
+        "Ensure the table updates correctly for any change"
+    ],
+    "examples": "Input: Add row -> Output: Table with an extra row\nInput: Remove 2nd column -> Output: Table without the 2nd column",
+    "programming_language": "JavaScript",
+    "response_time": 321,
+    "score": 2,
+    "score_range": 3,
+    "weight": 50.0,
+    "total_weight": 75.0
+}

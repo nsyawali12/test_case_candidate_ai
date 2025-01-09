@@ -1,0 +1,17 @@
+{
+    "ic_id": 390,
+    "ica_id": 3746,
+    "question": "Create a pure CSS animation for a 'loading...' indicator without using any JavaScript or pre-built loading libraries. The animation should run infinitely and be adaptable for different website themes. Use your understanding of CSS keyframes, animation properties, and styling.",
+    "rules": [
+        "The animation must be infinite and smooth.",
+        "No JavaScript allowed, strictly CSS.",
+        "Adaptable to different website themes."
+    ],
+    "examples": "CSS Code: animation-name: spin; animation-duration: 4s; animation-iteration-count: infinite; -> Visual: A spinning element.",
+    "programming_language": "HTML/CSS",
+    "response_time": 40,
+    "score": 3,
+    "score_range": 3,
+    "weight": 100.0,
+    "total_weight": 100.0
+}

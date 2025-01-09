@@ -1,0 +1,16 @@
+{
+    "ic_id": 287,
+    "ica_id": 2731,
+    "question": "Create a Dockerfile that will set up an environment to run a simple Python application. The Python application should be a basic 'Hello, World!' script. The Dockerfile must specify the base image, add the Python script to the image, and define the command to run the script. Make sure the image is optimized for size and build speed. After creating the Dockerfile, provide the commands you would use to build and run the container.",
+    "rules": [
+        "Image should be optimized for size",
+        "The container should run without errors"
+    ],
+    "examples": "Input: Dockerfile creation\nExpected Output: A working Dockerfile with a 'Hello, World!' Python script that can be built and run inside a Docker container.",
+    "programming_language": "Docker",
+    "response_time": 260,
+    "score": 2,
+    "score_range": 3,
+    "weight": 16.67,
+    "total_weight": 25.0
+}

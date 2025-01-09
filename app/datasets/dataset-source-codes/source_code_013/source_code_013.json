@@ -1,0 +1,15 @@
+{
+    "ic_id": 262,
+    "ica_id": 2513,
+    "question": "Write a Java program to find the reverse of a string.",
+    "rules": [
+        "Do not use any built-in functions or libraries to reverse the string."
+    ],
+    "examples": "\"hello\" => \"olleh\"",
+    "programming_language": "Java",
+    "response_time": 253,
+    "score": 1,
+    "score_range": 3,
+    "weight": 8.33,
+    "total_weight": 25.0
+}

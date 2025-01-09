@@ -1,0 +1,13 @@
+{
+    "ic_id": 144,
+    "ica_id": 1460,
+    "question": "Given an array of integers, find the longest increasing subarray.",
+    "rules": [],
+    "examples": "Input: [1, 2, 3, 2, 1], Expected Output: [1, 2, 3]",
+    "programming_language": "Swift",
+    "response_time": 1540,
+    "score": 2,
+    "score_range": 3,
+    "weight": 100.0,
+    "total_weight": 150.0
+}

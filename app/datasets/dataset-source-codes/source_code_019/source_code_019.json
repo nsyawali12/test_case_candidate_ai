@@ -1,0 +1,17 @@
+{
+    "ic_id": 286,
+    "ica_id": 2723,
+    "question": "Build a tool to convert text color codes from hexadecimal to RGB format using React, with a live preview of the color. The tool should include an input field for the user to type or paste the hex color code (e.g., #FF5733), and upon input, it should display the equivalent RGB color code (e.g., RGB(255, 87, 51)) and a small visual representation of the color. Ensure the input only accepts valid hex color codes.",
+    "rules": [
+        "The input should validate hex color codes.",
+        "Show a live color preview next to the RGB code.",
+        "Use state management effectively."
+    ],
+    "examples": "Input: #FF5733\nOutput: RGB(255, 87, 51)\n\nInput: #BADA55\nOutput: RGB(186, 218, 85)",
+    "programming_language": "JavaScript",
+    "response_time": 5,
+    "score": 0,
+    "score_range": 3,
+    "weight": 0.0,
+    "total_weight": 25.0
+}

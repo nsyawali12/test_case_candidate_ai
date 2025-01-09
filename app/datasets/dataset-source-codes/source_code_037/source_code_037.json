@@ -1,0 +1,16 @@
+{
+    "ic_id": 409,
+    "ica_id": 3970,
+    "question": "Create a Node.js script that takes a string as an input and finds the longest substring without repeating characters. The function should return this substring and its length.",
+    "rules": [
+        "The script must be executable in a Node.js environment.",
+        "Do not use any external npm packages for the solution."
+    ],
+    "examples": "Input: 'abrkaabcdefghijjxxx' Output: { substring: 'abcdefghij', length: 10 }",
+    "programming_language": "JavaScript",
+    "response_time": 900,
+    "score": 1,
+    "score_range": 3,
+    "weight": 25.0,
+    "total_weight": 75.0
+}

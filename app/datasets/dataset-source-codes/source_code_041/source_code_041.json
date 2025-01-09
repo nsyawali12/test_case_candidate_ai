@@ -1,0 +1,17 @@
+{
+    "ic_id": 430,
+    "ica_id": 4205,
+    "question": "Implement a custom 'OrderByPipe' in Angular which takes an array of objects and a key, and returns a sorted array based on the given key. The pipe should be able to handle sorting in ascending and descending order.",
+    "rules": [
+        "Do not use Angular's built-in pipes or third-party libraries",
+        "Ensure the pipe is generic and works for any object key",
+        "Implement error handling for invalid input data"
+    ],
+    "examples": "Input: [{name: 'Alice'}, {name: 'Bob'}], key: 'name', order: 'asc' Output: [{name: 'Alice'}, {name: 'Bob'}]\nInput: [{name: 'Alice'}, {name: 'Bob'}], key: 'name', order: 'desc' Output: [{name: 'Bob'}, {name: 'Alice'}]",
+    "programming_language": "TypeScript",
+    "response_time": 872,
+    "score": 2,
+    "score_range": 3,
+    "weight": 50.0,
+    "total_weight": 75.0
+}

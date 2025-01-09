@@ -1,0 +1,16 @@
+{
+    "ic_id": 138,
+    "ica_id": 1258,
+    "question": "Given a string, determine if it is a palindrome.",
+    "rules": [
+        "The input string can contain alphanumeric characters and punctuation marks.",
+        "Ignore capitalization and whitespace."
+    ],
+    "examples": "\"racecar\" -> true, \"hello\" -> false",
+    "programming_language": "JavaScript",
+    "response_time": 1399,
+    "score": 1,
+    "score_range": 3,
+    "weight": 100.0,
+    "total_weight": 300.0
+}

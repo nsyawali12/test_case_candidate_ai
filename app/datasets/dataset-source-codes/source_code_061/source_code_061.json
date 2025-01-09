@@ -1,0 +1,16 @@
+{
+    "ic_id": 494,
+    "ica_id": 4654,
+    "question": "Write a Python function that takes a list of words and returns the longest word and its length. If there are multiple words with the same maximum length, return the one that appears first in the list.",
+    "rules": [
+        "Only use core Python features.",
+        "Function should return a tuple (longest_word, length)."
+    ],
+    "examples": "Input: ['hello', 'world', 'python', 'programming'] Output: ('programming', 11)\\nInput: ['short', 'longer', 'longest', 'size'] Output: ('longest', 7)",
+    "programming_language": "Python",
+    "response_time": 407,
+    "score": 3,
+    "score_range": 3,
+    "weight": 75.0,
+    "total_weight": 75.0
+}

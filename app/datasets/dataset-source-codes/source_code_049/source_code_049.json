@@ -1,0 +1,15 @@
+{
+    "ic_id": 460,
+    "ica_id": 4427,
+    "question": "Construct a Java function that determines if a string is a palindrome or not. A palindrome is a word, phrase, number, or other sequences of characters that reads the same forward and backward (ignoring spaces, punctuation, and capitalization).",
+    "rules": [
+        "Ignore spaces, punctuation, and capitalization"
+    ],
+    "examples": "Input: 'A man, a plan, a canal: Panama' Output: true\nInput: 'race a car' Output: false",
+    "programming_language": "Java",
+    "response_time": 148,
+    "score": 2,
+    "score_range": 3,
+    "weight": 50.0,
+    "total_weight": 75.0
+}

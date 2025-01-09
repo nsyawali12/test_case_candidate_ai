@@ -1,0 +1,17 @@
+{
+    "ic_id": 416,
+    "ica_id": 4021,
+    "question": "Implement a NestJS module to efficiently manage inventory for an e-commerce application. The module should have endpoints to add new products, update existing product quantities, fetch a list of products, and check if a product can be ordered in a certain quantity. Each product has a unique identifier, name, description, price, and available quantity. Ensure the use of proper DTOs and interfaces for type safety, and handle possible exceptions accurately. Optimize your database interaction for batch updates.",
+    "rules": [
+        "Ensure type safety with DTOs and interfaces",
+        "Optimize for batch database updates",
+        "Handle exceptions gracefully"
+    ],
+    "examples": "Input: POST request with product data. Output: Successful addition of the new product. Input: GET request for products. Output: List of products with details. Input: PUT request with product ID and new quantity. Output: Updated product quantity.",
+    "programming_language": "TypeScript",
+    "response_time": 978,
+    "score": 3,
+    "score_range": 3,
+    "weight": 150.0,
+    "total_weight": 150.0
+}

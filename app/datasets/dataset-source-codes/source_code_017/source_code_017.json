@@ -1,0 +1,13 @@
+{
+    "ic_id": 277,
+    "ica_id": 2672,
+    "question": "You are given a string. Write a function that returns the middle character of the string. If the length of the string is odd, return the middle character. If the length of the string is even, return the middle two characters. For example, given the string 'abcde', the function should return 'c'. Given the string 'abcdef', the function should return 'cd'.",
+    "rules": [],
+    "examples": "'abcde' => 'c', 'abcdef' => 'cd'",
+    "programming_language": "C++",
+    "response_time": 290,
+    "score": 1,
+    "score_range": 3,
+    "weight": 8.33,
+    "total_weight": 25.0
+}

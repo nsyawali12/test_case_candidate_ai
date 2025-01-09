@@ -1,0 +1,17 @@
+{
+    "ic_id": 393,
+    "ica_id": 3828,
+    "question": "You have been tasked with building a custom collection pipeline in Laravel that performs a series of operations on a collection of numerical data. You need to create a chainable pipeline that applies the following operations in order: filter out numbers less than 10, then calculate the square of remaining numbers, and finally compute the average of the squared numbers. Use Laravel collections and their built-in methods to accomplish this, avoiding any loops.",
+    "rules": [
+        "Use Laravel collections",
+        "No loops allowed",
+        "The solution should be chainable"
+    ],
+    "examples": "Input: collect([2, 10, 3, 4, 15, 20])\nOutput: 306.66666666667 (as 10^2, 15^2, and 20^2 are 100, 225, and 400 respectively; their average is 306.67)",
+    "programming_language": "PHP",
+    "response_time": 136,
+    "score": 3,
+    "score_range": 3,
+    "weight": 200.0,
+    "total_weight": 200.0
+}

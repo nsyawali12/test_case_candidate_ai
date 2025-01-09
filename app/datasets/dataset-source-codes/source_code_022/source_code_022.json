@@ -1,0 +1,18 @@
+{
+    "ic_id": 301,
+    "ica_id": 2848,
+    "question": "Create a Dockerfile for a simple Python web application using Flask that listens on port 5000. The web application should have a single route '/answer' that returns a JSON object with a key 'puzzle' and a value that is the result of multiplying the sum of the numbers 3, 7, and 11 by 2. Ensure the image is optimized for size and build speed, using multi-stage builds if necessary.",
+    "rules": [
+        "The Dockerfile must be written for Python 3.8 or higher",
+        "Multi-stage builds are recommended for optimization",
+        "The base image should be an official Python Docker image",
+        "The final Docker image should be as small as possible"
+    ],
+    "examples": "Input: HTTP GET request to the '/answer' route\nExpected Output: {\"puzzle\": 42}",
+    "programming_language": "Docker",
+    "response_time": 299,
+    "score": 3,
+    "score_range": 3,
+    "weight": 25.0,
+    "total_weight": 25.0
+}

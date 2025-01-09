@@ -1,0 +1,16 @@
+{
+    "ic_id": 477,
+    "ica_id": 4513,
+    "question": "Given an unordered array of integers, write a JavaScript function that will sort the array using the bubble sort algorithm. Make sure no libraries are used.",
+    "rules": [
+        "No use of third-party libraries.",
+        "Follow the standard bubble sort algorithm."
+    ],
+    "examples": "Input: [34, 17, 23, 67, 45] Output: [17, 23, 34, 45, 67]",
+    "programming_language": "JavaScript",
+    "response_time": 355,
+    "score": 0,
+    "score_range": 3,
+    "weight": 0.0,
+    "total_weight": 75.0
+}

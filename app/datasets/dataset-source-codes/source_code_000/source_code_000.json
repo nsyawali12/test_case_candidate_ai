@@ -1,0 +1,15 @@
+{
+    "ic_id": 75,
+    "ica_id": 688,
+    "question": "Write a program to find the largest element in an array.",
+    "rules": [
+        "The array can have duplicate elements."
+    ],
+    "examples": "Input: [1, 4, 2, 9, 5]\nOutput: 9",
+    "programming_language": "Java",
+    "response_time": 405,
+    "score": 2,
+    "score_range": 3,
+    "weight": 100.0,
+    "total_weight": 150.0
+}

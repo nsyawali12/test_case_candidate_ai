@@ -1,0 +1,13 @@
+{
+    "ic_id": 253,
+    "ica_id": 2505,
+    "question": "Given a string, write a program to check if it is a palindrome.",
+    "rules": [],
+    "examples": "\"radar\" -> true, \"hello\" -> false",
+    "programming_language": "C++",
+    "response_time": 300,
+    "score": 1,
+    "score_range": 3,
+    "weight": 8.33,
+    "total_weight": 25.0
+}

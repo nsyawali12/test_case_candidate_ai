@@ -1,0 +1,19 @@
+{
+    "ic_id": 420,
+    "ica_id": 4110,
+    "question": "Create a NestJS controller and service that simulate a book lending process. Include endpoints to add a book to the library, lend a book to a user, and return a book. The service should ensure that only available books can be lent out and should track the status of books.",
+    "rules": [
+        "Implement appropriate HTTP methods for each action.",
+        "Use DTOs for the request parameters and for the response format.",
+        "Handle attempts to lend out books that are not available.",
+        "Include error handling for unmatched return requests.",
+        "Write at least one unit test for each endpoint."
+    ],
+    "examples": "Input: Add book: { title: 'Clean Code', author: 'Robert C. Martin' } Output: Book added. Input: Lend book: { title: 'Clean Code', userId: 42 } Output: Book lent. Input: Return book: { title: 'Clean Code', userId: 42 } Output: Book returned.",
+    "programming_language": "TypeScript",
+    "response_time": 318,
+    "score": 2,
+    "score_range": 3,
+    "weight": 100.0,
+    "total_weight": 150.0
+}

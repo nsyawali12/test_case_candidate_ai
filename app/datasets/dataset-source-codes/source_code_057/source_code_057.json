@@ -1,0 +1,16 @@
+{
+    "ic_id": 481,
+    "ica_id": 4526,
+    "question": "Design and implement a function in Python that simulates rolling a six-sided die. The function should use a pseudo-random number generator and ensure that each number from 1 to 6 has an approximately equal probability of appearing over a large number of rolls. Additionally, write a secondary function that takes a number n as input and simulates rolling the die n times, returning a dictionary that counts the occurrences of each result.",
+    "rules": [
+        "Use the random module from Python's standard library.",
+        "Do not use any external libraries."
+    ],
+    "examples": "Input: n = 1000\nOutput: {1: ~167, 2: ~167, 3: ~167, 4: ~167, 5: ~167, 6: ~167}",
+    "programming_language": "Python",
+    "response_time": 967,
+    "score": 1,
+    "score_range": 3,
+    "weight": 50.0,
+    "total_weight": 150.0
+}

@@ -1,0 +1,13 @@
+{
+    "ic_id": 71,
+    "ica_id": 702,
+    "question": "Given a string with multiple words, write a function to reverse the order of the words in the string.",
+    "rules": [],
+    "examples": "\"Hello World!\" -> \"World! Hello\"",
+    "programming_language": "Java",
+    "response_time": 516,
+    "score": 2,
+    "score_range": 3,
+    "weight": 100.0,
+    "total_weight": 150.0
+}

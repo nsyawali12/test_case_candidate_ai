@@ -1,0 +1,17 @@
+{
+    "ic_id": 429,
+    "ica_id": 4156,
+    "question": "Design and implement a function in TypeScript that converts a flat array of objects representing tasks with parent-child relationships into a nested tree structure. Each task object has an id, title, and parent_id, where a null parent_id indicates a root-level task. Tasks should be nested within their respective parent tasks according to their parent_id.",
+    "rules": [
+        "The function must handle an arbitrary number of nesting levels.",
+        "Task objects should be immutable; do not modify the input array's objects.",
+        "The solution should be optimized for readability and performance."
+    ],
+    "examples": "Input: [{ id: 1, title: 'Task 1', parent_id: null }, { id: 2, title: 'Task 2', parent_id: 1 }, { id: 3, title: 'Task 3', parent_id: 1 }]\nOutput: [{ id: 1, title: 'Task 1', parent_id: null, children: [{ id: 2, title: 'Task 2', parent_id: 1 }, { id: 3, title: 'Task 3', parent_id: 1 }]}]",
+    "programming_language": "TypeScript",
+    "response_time": 2700,
+    "score": 1,
+    "score_range": 3,
+    "weight": 75.0,
+    "total_weight": 225.0
+}

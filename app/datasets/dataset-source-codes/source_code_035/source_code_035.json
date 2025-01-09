@@ -1,0 +1,16 @@
+{
+    "ic_id": 386,
+    "ica_id": 3809,
+    "question": "Create a React component that renders a password strength meter. The component should take a string input and display a visual representation of the password's strength (weak, medium, strong), based on rules such as length, the inclusion of numbers and special characters, etc. The state should update dynamically as the user types.",
+    "rules": [
+        "Use functional components and React hooks",
+        "Provide visual feedback for different strength levels"
+    ],
+    "examples": "Input: 'P@ssw0rd!'\nOutput: 'Strong' // Visual indicator shows 'Strong'\n\nInput: 'pass'\nOutput: 'Weak' // Visual indicator shows 'Weak'",
+    "programming_language": "JavaScript-React",
+    "response_time": 424,
+    "score": 3,
+    "score_range": 3,
+    "weight": 200.0,
+    "total_weight": 200.0
+}

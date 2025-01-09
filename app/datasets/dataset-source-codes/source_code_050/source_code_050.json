@@ -1,0 +1,16 @@
+{
+    "ic_id": 461,
+    "ica_id": 4432,
+    "question": "Create a custom WordPress shortcode that fetches and displays the latest 10 posts from a specific category using HTML and CSS for styling. The posts should be displayed as a list with the post title, excerpt, and publication date. You should use SQL to query the database for the necessary information. Implement this within a WordPress theme's functions.php file.",
+    "rules": [
+        "Must use native WordPress functions and SQL queries.",
+        "The shortcode should be easy to use by inserting it into any post or page."
+    ],
+    "examples": "Input: Category ID = 3\nOutput: A styled list of the latest 10 posts from category ID 3\n\nInput: Category ID = 5\nOutput: A styled list of the latest 10 posts from category ID 5",
+    "programming_language": "PHP",
+    "response_time": 146,
+    "score": 1,
+    "score_range": 3,
+    "weight": 50.0,
+    "total_weight": 150.0
+}

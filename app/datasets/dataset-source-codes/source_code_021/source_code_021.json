@@ -1,0 +1,16 @@
+{
+    "ic_id": 290,
+    "ica_id": 2761,
+    "question": "Write a Python function that finds the first non-repeated character in a given string. You should iterate through the string and return the first character that does not have a duplicate later in the string. If every character is repeated, the function should return 'None'.",
+    "rules": [
+        "Your solution should have a linear time complexity.",
+        "Avoid using built-in functions that solve this problem directly."
+    ],
+    "examples": "Input: 'abaccdeff'\nOutput: 'b'\n\nInput: 'abcdefggfedcba'\nOutput: None",
+    "programming_language": "Python",
+    "response_time": 229,
+    "score": 3,
+    "score_range": 3,
+    "weight": 50.0,
+    "total_weight": 50.0
+}

@@ -1,0 +1,17 @@
+{
+    "ic_id": 371,
+    "ica_id": 3604,
+    "question": "Given an array of user objects each with a list of skills and ratings, write a function that matches users into pairs such that the pairs have the highest average similar skill rating. The function should return a list of pairings where each user is used at most once.",
+    "rules": [
+        "Each user can only be paired once.",
+        "Minimize the use of third-party libraries.",
+        "Consider users with at least one skill in common for pairing."
+    ],
+    "examples": "Input: [{ name: 'Alice', skills: { Java: 5, C++: 3 } }, { name: 'Bob', skills: { Java: 6, Python: 4 } }, { name: 'Charlie', skills: { Python: 5, C++: 5 } }]\nOutput: [[ 'Alice', 'Bob' ]]",
+    "programming_language": "JavaScript",
+    "response_time": 2001,
+    "score": 3,
+    "score_range": 3,
+    "weight": 300.0,
+    "total_weight": 300.0
+}

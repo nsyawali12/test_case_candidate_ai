@@ -1,0 +1,17 @@
+{
+    "ic_id": 389,
+    "ica_id": 3743,
+    "question": "Create a JavaScript function that takes an array of HTML color names or HEX codes and returns a sorted array by the luminance of the colors from darkest to lightest. Use the standard RGB luminance formula and assume that all HEX codes will be in full form, i.e., 6 characters long.",
+    "rules": [
+        "Assume standard CSS color names are used.",
+        "All HEX codes are 6 characters long.",
+        "Calculate luminance based on the standard RGB luminance formula."
+    ],
+    "examples": "Input: ['black', '#FF0000', 'blue'] Output: ['black', 'blue', '#FF0000']",
+    "programming_language": "JavaScript",
+    "response_time": 54,
+    "score": 0,
+    "score_range": 3,
+    "weight": 0.0,
+    "total_weight": 100.0
+}

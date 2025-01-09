@@ -1,0 +1,18 @@
+{
+    "ic_id": 468,
+    "ica_id": 4466,
+    "question": "Write a JavaScript function that takes an array of words and a maximum character limit as arguments, and returns a string of a single sentence that includes as many of the words as possible without surpassing the maximum character limit. Words cannot be chopped off and must be separated by spaces, with a full stop at the end of the sentence.",
+    "rules": [
+        "No use of third-party libraries.",
+        "Function must handle edge cases like empty arrays or limits too small for any words.",
+        "Words cannot be broken into parts and must remain whole.",
+        "Include a full stop at the end of the sentence"
+    ],
+    "examples": "Input: words = ['hello', 'world', 'this', 'is', 'a', 'test'], maxChars = 20 Output: 'hello world this.'",
+    "programming_language": "JavaScript",
+    "response_time": 9,
+    "score": 0,
+    "score_range": 3,
+    "weight": 0.0,
+    "total_weight": 75.0
+}

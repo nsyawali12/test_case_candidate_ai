@@ -1,0 +1,18 @@
+{
+    "ic_id": 449,
+    "ica_id": 4338,
+    "question": "Develop a function to sort an array of objects by a specific object key in JavaScript, where the objects represent players with a 'name' and 'score' key. Your function should be able to sort the array firstly by score in descending order, and for players with the same score, alphabetically by name. Ensure your code handles edge cases appropriately.",
+    "rules": [
+        "Use native JavaScript methods only.",
+        "Functions should be well-commented",
+        "Handle cases where the input array is empty",
+        "Provide a solution that doesn't mutate the original array"
+    ],
+    "examples": "Input: [{name: 'Alice', score: 10}, {name: 'Bob', score: 8}, {name: 'Charlie', score: 10}] Output: [{name: 'Alice', score: 10}, {name: 'Charlie', score: 10}, {name: 'Bob', score: 8}]",
+    "programming_language": "JavaScript",
+    "response_time": 38,
+    "score": 0,
+    "score_range": 3,
+    "weight": 0.0,
+    "total_weight": 75.0
+}

@@ -1,0 +1,13 @@
+{
+    "ic_id": 268,
+    "ica_id": 2615,
+    "question": "Given an array of numbers, return the sum of all the odd numbers.",
+    "rules": [],
+    "examples": "[[1, 2, 3, 4, 5], 9]",
+    "programming_language": "JavaScript",
+    "response_time": 300,
+    "score": 1,
+    "score_range": 3,
+    "weight": 8.33,
+    "total_weight": 25.0
+}

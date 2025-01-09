@@ -1,0 +1,16 @@
+{
+    "ic_id": 484,
+    "ica_id": 4573,
+    "question": "Design a function that compresses a nested object with possible multiple levels of nesting, removing all null values, and flattening the result to a single level object with dot-notated keys.",
+    "rules": [
+        "Function must handle multiple levels of nesting",
+        "No use of third-party libraries"
+    ],
+    "examples": "Input: { a: 1, b: { c: null, d: { e: 2 } }, f: { g: null } } Output: {'a': 1, 'b.d.e': 2}",
+    "programming_language": "JavaScript",
+    "response_time": 408,
+    "score": 3,
+    "score_range": 3,
+    "weight": 225.0,
+    "total_weight": 225.0
+}

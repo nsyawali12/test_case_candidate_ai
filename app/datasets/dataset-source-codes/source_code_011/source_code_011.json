@@ -1,0 +1,13 @@
+{
+    "ic_id": 226,
+    "ica_id": 2344,
+    "question": "You are given a string. Write a function to remove all duplicate characters from the string and return the resulting string.",
+    "rules": [],
+    "examples": "\"hello\" -> \"helo\"",
+    "programming_language": "JavaScript",
+    "response_time": 1030,
+    "score": 3,
+    "score_range": 3,
+    "weight": 150.0,
+    "total_weight": 150.0
+}

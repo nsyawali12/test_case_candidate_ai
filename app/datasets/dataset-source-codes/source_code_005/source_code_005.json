@@ -1,0 +1,13 @@
+{
+    "ic_id": 157,
+    "ica_id": 1333,
+    "question": "A number is called a prime if it's divisible only by 1 and itself. Write a program to check whether a given number is prime or not.",
+    "rules": [],
+    "examples": "Input: 7\nOutput: True\n\nInput: 10\nOutput: False",
+    "programming_language": "Python",
+    "response_time": 164,
+    "score": 3,
+    "score_range": 3,
+    "weight": 300.0,
+    "total_weight": 300.0
+}

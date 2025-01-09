@@ -1,0 +1,18 @@
+{
+    "ic_id": 446,
+    "ica_id": 4301,
+    "question": "Design a Python function using Django ORM to retrieve all records from a 'Customer' model where the 'zip_code' field starts with '123'. The function should return a list of dictionaries with all fields for the matching records.",
+    "rules": [
+        "The function must be written in Python using Django's ORM.",
+        "Must return a list of dictionaries.",
+        "Each dictionary should represent a single customer record.",
+        "No use of raw SQL queries."
+    ],
+    "examples": "Input: 'Customer' model instances with various 'zip_code' values. Output: List of dictionaries representing customers with zip codes like '12345', '12333', etc.",
+    "programming_language": "Python",
+    "response_time": 97,
+    "score": 0,
+    "score_range": 3,
+    "weight": 0.0,
+    "total_weight": 75.0
+}

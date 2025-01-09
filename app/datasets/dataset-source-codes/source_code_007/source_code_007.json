@@ -1,0 +1,15 @@
+{
+    "ic_id": 139,
+    "ica_id": 1479,
+    "question": "Write a program that checks whether a given number is prime or not.",
+    "rules": [
+        "The solution should implement the Sieve of Eratosthenes algorithm."
+    ],
+    "examples": "Input: 7, Output: true\nInput: 12, Output: false",
+    "programming_language": "Java",
+    "response_time": 1779,
+    "score": 3,
+    "score_range": 3,
+    "weight": 300.0,
+    "total_weight": 300.0
+}

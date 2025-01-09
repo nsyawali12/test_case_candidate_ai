@@ -1,0 +1,18 @@
+{
+    "ic_id": 365,
+    "ica_id": 3720,
+    "question": "You are tasked with creating a feature in a Laravel application that fetches and displays a paginated list of users. Implement a REST API endpoint to retrieve paginated user data with the ability to filter by username. Utilize Eloquent ORM for fetching the data, and handle any potential exceptions that might occur during the process. Additionally, create a Vue.js component that utilizes this endpoint to display the user data, with UI elements for pagination and filtering.",
+    "rules": [
+        "Create REST API endpoint using Laravel",
+        "Use Vue.js for the frontend component",
+        "Implement pagination and filtering on both backend and frontend",
+        "Ensure proper exception handling"
+    ],
+    "examples": "Input: GET /api/users?page=2&username=doe\nOutput: JSON response with users having 'doe' in their username on the second page of results.",
+    "programming_language": "PHP & JavaScript",
+    "response_time": 1373,
+    "score": 3,
+    "score_range": 3,
+    "weight": 200.0,
+    "total_weight": 200.0
+}

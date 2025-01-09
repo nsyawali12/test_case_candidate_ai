@@ -1,0 +1,16 @@
+{
+    "ic_id": 339,
+    "ica_id": 3215,
+    "question": "Create a Python function that connects to an InfluxDB database, retrieves the maximum value for a given field from a specified measurement over the last hour, and calculates the percentage change compared to the previous hour.",
+    "rules": [
+        "Handle potential errors during database connection or data retrieval.",
+        "Your function should be able to be called with different measurements and fields."
+    ],
+    "examples": "Input: Measurement 'stock_prices', Field 'closing_price', Database 'financial_data'  Output: The percentage change in closing price for the last hour is 2.5%",
+    "programming_language": "Python",
+    "response_time": 1486,
+    "score": 2,
+    "score_range": 3,
+    "weight": 200.0,
+    "total_weight": 300.0
+}

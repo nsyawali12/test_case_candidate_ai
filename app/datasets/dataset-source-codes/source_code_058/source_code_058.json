@@ -1,0 +1,17 @@
+{
+    "ic_id": 487,
+    "ica_id": 4537,
+    "question": "Write a Java function that takes an array of integers and an integer target value, and returns the indices of the two numbers such that they add up to the target.",
+    "rules": [
+        "Must return an array of integers",
+        "If there are multiple solutions, you may return any one of them",
+        "If no solution, return an empty array"
+    ],
+    "examples": "Input: array = [2, 7, 11, 15], target = 9, Output: [0, 1]",
+    "programming_language": "Java",
+    "response_time": 76,
+    "score": 3,
+    "score_range": 3,
+    "weight": 75.0,
+    "total_weight": 75.0
+}

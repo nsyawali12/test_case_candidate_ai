@@ -1,0 +1,16 @@
+{
+    "ic_id": 313,
+    "ica_id": 2929,
+    "question": "Create an anagram checker function in JavaScript. An anagram is a word or phrase that's formed by rearranging the letters of another word or phrase. The function should take two strings as input and return a boolean indicating whether the two strings are anagrams of each other, ignoring case and spaces. Consider only alphabets for making anagrams.",
+    "rules": [
+        "Ignore case and spaces",
+        "Consider only alphabet characters"
+    ],
+    "examples": "Input: 'listen', 'silent' \nOutput: true\n\nInput: 'hello', 'billion' \nOutput: false",
+    "programming_language": "JavaScript",
+    "response_time": 251,
+    "score": 1,
+    "score_range": 3,
+    "weight": 25.0,
+    "total_weight": 75.0
+}

@@ -1,0 +1,18 @@
+{
+    "ic_id": 476,
+    "ica_id": 4508,
+    "question": "Create a Flutter app widget that displays a real-time list of messages retrieved from the Firebase Realtime Database. The widget should automatically update when new messages are added to the database. Additionally, implement a feature to add new messages to the database directly from the widget. Ensure the messages are sorted by timestamp and handle any potential errors during data retrieval or submission.",
+    "rules": [
+        "Utilize Flutter's StreamBuilder for real-time updates.",
+        "Properly structure the Firebase Realtime Database for storing messages.",
+        "Handle sorting of messages by timestamp within the app.",
+        "Proper error handling must be implemented for data retrieval and submission."
+    ],
+    "examples": "Input: User adds a new message 'Hello World' from the Flutter app. Expected Output: The message list in the app updates in real-time and the new message 'Hello World' appears ordered by timestamp. Additionally, Firebase Realtime Database reflects this new entry.",
+    "programming_language": "Dart",
+    "response_time": 193,
+    "score": 3,
+    "score_range": 3,
+    "weight": 225.0,
+    "total_weight": 225.0
+}

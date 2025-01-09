@@ -1,0 +1,17 @@
+{
+    "ic_id": 518,
+    "ica_id": 4799,
+    "question": "Create a PHP script that will accept a string as input, and return the top three most common words used within the string, along with their frequency counts. Assume the string is a plain text with words separated by spaces and punctuation should not be considered part of the word. Ensure that the count is case-insensitive and that the script can handle large strings efficiently.",
+    "rules": [
+        "Handle large strings efficiently",
+        "Count should be case-insensitive",
+        "Punctuation should not be part of the word"
+    ],
+    "examples": "Input: \"The quick brown fox jumps over the lazy dog. The dog was lazy!\"\nOutput: [(\"the\", 3), (\"lazy\", 2), (\"dog\", 2)]",
+    "programming_language": "PHP",
+    "response_time": 127,
+    "score": 3,
+    "score_range": 3,
+    "weight": 75.0,
+    "total_weight": 75.0
+}

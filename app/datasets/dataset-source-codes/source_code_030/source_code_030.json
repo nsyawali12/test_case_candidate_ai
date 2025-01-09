@@ -1,0 +1,16 @@
+{
+    "ic_id": 368,
+    "ica_id": 3535,
+    "question": "Create a JavaScript function, 'mergeSortedArrays', that takes two arrays of numbers sorted in ascending order and merges them into a single array that is also sorted in ascending order. Make sure it is optimized for time complexity.",
+    "rules": [
+        "Optimize for time complexity.",
+        "No use of third-party libraries."
+    ],
+    "examples": "Input: [0, 3, 4, 31], [4, 6, 30] Output: [0, 3, 4, 4, 6, 30, 31]",
+    "programming_language": "JavaScript",
+    "response_time": 8,
+    "score": 0,
+    "score_range": 3,
+    "weight": 0.0,
+    "total_weight": 100.0
+}

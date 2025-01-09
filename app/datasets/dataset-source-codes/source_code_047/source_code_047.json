@@ -1,0 +1,16 @@
+{
+    "ic_id": 455,
+    "ica_id": 4394,
+    "question": "Create a Go function that connects to a PostgreSQL database, creates a table called 'logs', and inserts some data into it. The 'logs' table should have columns for 'id' (primary key), 'timestamp' (datetime of the log entry), and 'message' (text of the log entry). After inserting sample data, write a query to retrieve all entries from 'logs'.",
+    "rules": [
+        "Use the standard 'database/sql' package for database connection",
+        "Include error handling for database operations"
+    ],
+    "examples": "Expected output: A Go function that performs the database operations with PostgreSQL, and when executed, it creates a 'logs' table, inserts sample data, and retrieves all log entries.",
+    "programming_language": "Go",
+    "response_time": 91,
+    "score": 1,
+    "score_range": 3,
+    "weight": 25.0,
+    "total_weight": 75.0
+}

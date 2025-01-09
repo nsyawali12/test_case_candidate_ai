@@ -1,0 +1,17 @@
+{
+    "ic_id": 309,
+    "ica_id": 2905,
+    "question": "Develop a C# function that checks for balanced brackets in a given string. The function should determine whether every opening bracket in the string has a corresponding closing bracket and is properly nested. You must handle brackets of type (), {}, and [].",
+    "rules": [
+        "The function should be written in C#.",
+        "The function should handle empty strings and return true.",
+        "The code should be optimized for readability."
+    ],
+    "examples": "Input: \"(a+[b*c]-{d/e})\"\nOutput: true\n\nInput: \"(a+[b*c)-{d/e}]\"\nOutput: false",
+    "programming_language": "C#",
+    "response_time": 300,
+    "score": 1,
+    "score_range": 3,
+    "weight": 8.33,
+    "total_weight": 25.0
+}

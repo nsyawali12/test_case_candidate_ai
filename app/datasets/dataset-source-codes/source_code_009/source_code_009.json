@@ -1,0 +1,15 @@
+{
+    "ic_id": 200,
+    "ica_id": 2061,
+    "question": "Given a Django model called 'Book', write a function that returns the average rating of all books.",
+    "rules": [
+        "Do not use any built-in Django methods to calculate the average rating."
+    ],
+    "examples": "Input: Book.objects.all() \nOutput: 4.5",
+    "programming_language": "Python",
+    "response_time": 420,
+    "score": 3,
+    "score_range": 3,
+    "weight": 150.0,
+    "total_weight": 150.0
+}
