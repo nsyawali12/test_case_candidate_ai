@@ -33,15 +33,19 @@ if st.button("Predict with LightGBM"):
         st.warning("Please fill in all input fields.")
 
 if st.button("Predict with CodeBERT"):
-    response = requests.post(
-        CODEBERT_API,
-        json={
-            "question_code": question_code,
-            "candidate_answer": candidate_answer,
-            "ai_generated_answer": ai_generated_answer
-        },
-    )
-    if response.status_code == 200:
-        st.success(f"Predicted Score (CodeBERT): {response.json()['predicted_score']}")
-    else:
-        st.error(f"Error: {response.json()['detail']}")
+    # Temporarily return a Work In Progress message
+    st.info("Work In Progress")
+
+    # Uncomment this code when CodeBERT integration is complete
+    # response = requests.post(
+    #     CODEBERT_API,
+    #     json={
+    #         "question_code": question_code,
+    #         "candidate_answer": candidate_answer,
+    #         "ai_generated_answer": ai_generated_answer
+    #     },
+    # )
+    # if response.status_code == 200:
+    #     st.success(f"Predicted Score (CodeBERT): {response.json()['predicted_score']}")
+    # else:
+    #     st.error(f"Error: {response.json()['detail']}")
